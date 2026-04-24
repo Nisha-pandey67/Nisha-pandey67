@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Nisha 👋
 
-<!--
-**Nisha-pandey67/Nisha-pandey67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | IoT | Machine Learning Enthusiast  
+💡 Building smart systems and real-world automation projects  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Working on IoT + AI based projects  
+- 💻 Learning Full Stack Development  
+- ⚙️ Interested in automation and smart systems  
+- 🎯 Goal: Become a skilled software + IoT engineer  
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- Python  
+- Arduino / IoT Systems  
+- Machine Learning Basics  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+
+---
+
+## 🔥 Top Projects
+- Fire Detection System using Arduino  
+- Smart Manufacturing Scheduler  
+- ML-based sentiment analysis tools  
+
+---
+
+## 📫 Contact Me
+Email: yourmail@gmail.com  
+LinkedIn: your-link-here
