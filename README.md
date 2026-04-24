@@ -5,7 +5,7 @@ Full Stack Developer | IoT Engineer | Machine Learning Enthusiast
 </p>
 
 <p align="center">
-📍 India | 📧 yourmail@gmail.com | 
+📍 India | 📧 pandeynisha797@gmail.com | 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> | 
 <a href="https://github.com/Nisha-pandey67">GitHub</a>
 </p>
