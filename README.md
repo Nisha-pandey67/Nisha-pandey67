@@ -1,161 +1,97 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nisha Kumari | Software Developer</title>
+<h1 align="center">Nisha Pandey</h1>
 
-<style>
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: Arial;
-}
+<p align="center">
+Aspiring Software Develope
+</p>
 
-body {
-  background: radial-gradient(circle at top, #0f2027, #000);
-  color: white;
-  overflow-x: hidden;
-}
+<p align="center">
+📍 India | 📧 yourmail@gmail.com | 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> | 
+<a href="https://github.com/Nisha-pandey67">GitHub</a>
+</p>
 
-/* floating glow animation background */
-.glow {
-  position: absolute;
-  width: 400px;
-  height: 400px;
-  background: #00c2ff;
-  filter: blur(120px);
-  opacity: 0.2;
-  animation: move 10s infinite alternate;
-}
+---
 
-@keyframes move {
-  from { transform: translate(0,0); }
-  to { transform: translate(200px,150px); }
-}
+## 🎯 Career Objective
 
-header {
-  text-align: center;
-  padding: 100px 20px 50px;
-}
+Motivated Computer Science student focused on building real-world solutions using **IoT, Machine Learning, and Web Development**.  
+Interested in internships and opportunities where I can contribute to scalable systems and automation projects.
 
-h1 {
-  font-size: 55px;
-  animation: fadeIn 2s ease-in-out;
-}
+---
 
-@keyframes fadeIn {
-  from {opacity:0; transform: translateY(-20px);}
-  to {opacity:1; transform: translateY(0);}
-}
+## 🧠 Technical Skills
 
-.subtitle {
-  font-size: 18px;
-  opacity: 0.8;
-  margin-top: 10px;
-  animation: fadeIn 2.5s ease-in-out;
-}
+**Programming Languages:**  
+Python, JavaScript
 
-/* typing effect */
-.typing {
-  display: inline-block;
-  border-right: 2px solid white;
-  white-space: nowrap;
-  overflow: hidden;
-  animation: typing 4s steps(40) infinite alternate;
-}
+**Frontend:**  
+HTML, CSS, React (basic)
 
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
+**Database:**  
+MySQL
 
-.container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  width: 80%;
-  margin: auto;
-  padding-bottom: 50px;
-}
+**IoT / Embedded:**  
+Arduino, Sensors, GSM Modules
 
-.card {
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(255,255,255,0.1);
-  padding: 25px;
-  border-radius: 15px;
-  backdrop-filter: blur(10px);
-  transition: 0.4s;
-  transform: translateY(20px);
-  animation: slideUp 1s forwards;
-}
+**Tools:**  
+Git, GitHub, VS Code
 
-.card:hover {
-  transform: scale(1.05);
-  border: 1px solid #00c2ff;
-}
+---
 
-@keyframes slideUp {
-  to { transform: translateY(0); }
-}
+##  Projects
 
-footer {
-  text-align: center;
-  padding: 30px;
-  opacity: 0.7;
-  font-size: 14px;
-}
-</style>
-</head>
+### Fire Detection System (IoT + GSM)
+- Detects fire using sensors and sends SMS alert
+- Built using Arduino + GSM module
+- Real-time safety monitoring system  
+🔗 https://github.com/Nisha-pandey67/fire-detection-system
 
-<body>
+---
 
-<div class="glow"></div>
+### Smart Manufacturing Scheduler
+- Optimizes production scheduling using algorithms
+- Reduces time and cost in manufacturing workflow  
+🔗 [https://github.com/Nisha-pandey67/smart-manufacturing-scheduler]
 
-<header>
-  <h1>Nisha Kumari</h1>
-  <p class="subtitle typing">Software Developer | CSE Final Year Student | Job Ready</p>
-</header>
+---
+### Truthify-Reviews
+- An AI-powered browser extension that detects and flags fake or misleading reviews in real time using Machine Learning and Natural Language Processing (NLP).  
+- It analyzes sentiment, linguistic patterns, and behavioral signals to determine the authenticity of reviews, helping users make more trustworthy purchasing decisions online. 
+🔗 https://github.com/Nisha-pandey67/Truthify-Reviews
 
-<div class="container">
 
-  <div class="card">
-    <h2>👩‍💻 About Me</h2>
-    <p>CSE final year student focused on building real-world software solutions using IoT and Machine Learning.</p>
-  </div>
+---
 
-  <div class="card">
-    <h2>🚀 Projects</h2>
-    <p>
-      🔥 Fire Detection System (IoT + GSM)<br><br>
-      🧠 Fake Review Detector (NLP + ML Extension)
-    </p>
-  </div>
+## 📊 GitHub Performance
 
-  <div class="card">
-    <h2>🛠 Skills</h2>
-    <p>
-      HTML, CSS, JavaScript<br>
-      Python<br>
-      IoT (Arduino + Sensors)
-    </p>
-  </div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nisha-pandey67&show_icons=true&theme=tokyonight" />
+</p>
 
-  <div class="card">
-    <h2>📫 Contact</h2>
-    <p>
-      Email: pandeynisha797@gmail.com<br>
-      GitHub: Nisha-pandey67<br>
-      LinkedIn: your-link
-    </p>
-  </div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisha-pandey67&theme=tokyonight" />
+</p>
 
-</div>
+---
 
-<footer>
-  © 2026 Nisha Kumari | Job-Ready Developer Portfolio
-</footer>
+## 🏆 Achievements / Experience
 
-</body>
-</html>
+- Completed internship experience with **ONGC**, gaining exposure to real-world industrial systems and engineering workflows  
+- Built an **AI-powered Fake Review Detection browser extension** using Machine Learning and NLP to identify misleading online reviews  
+- Participated in an **IIT (ISM) Dhanbad technical bootcamp**, gaining hands-on exposure to advanced engineering and problem-solving concepts  
+- Worked on multiple interdisciplinary projects combining **IoT, Machine Learning, and Web Development**  
+- Developed practical solutions focused on real-world problems such as safety systems and online trust verification  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: pandeynisha797@gmail.com  
+- 💼 LinkedIn: (https://www.linkedin.com/in/nisha-kumari1111/)
+- 💻 GitHub: https://github.com/Nisha-pandey67  
+
+---
+
+## 💡 Declaration
+
+I am actively seeking **internship opportunities in Software Development, IoT, or AI/ML domains**.
