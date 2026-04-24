@@ -22,7 +22,7 @@ Interested in internships and opportunities where I can contribute to scalable s
 ## 🧠 Technical Skills
 
 **Programming Languages:**  
-Python, JavaScript
+C++, JavaScript
 
 **Frontend:**  
 HTML, CSS, React (basic)
