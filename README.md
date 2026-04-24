@@ -1,7 +1,7 @@
 <h1 align="center">Nisha Pandey</h1>
 
 <p align="center">
-Aspiring Software Develope
+Aspiring Software Developer
 </p>
 
 <p align="center">
